@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U tv
 
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="http://epgx.site/epg_lite.xml.gz" refresh="86400" tvg-shift=0 cache=500
 
